@@ -1,0 +1,19 @@
+{
+  "name": "430-git-exercise-part1",
+  "version": "1.0.0",
+  "description": "430-Git-Exercise-Part1\r ======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walsh-teddy/430-Git-Exercise-Part1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walsh-teddy/430-Git-Exercise-Part1/issues"
+  },
+  "homepage": "https://github.com/walsh-teddy/430-Git-Exercise-Part1#readme"
+}
